@@ -1,7 +1,7 @@
 # MercadoLibreProducts (Buscador Mercadolibre)
  
 ## Description
-This app lets user search products in the Colombian Mercadolibre strore, and see the details of each product.
+This app lets users search products in the Colombian Mercadolibre strore, and see the details of each product.
 ## Features
 * 100% developed in Kotlin.
 * Uses a Single-Activity Architecture alongside Navigation component.
